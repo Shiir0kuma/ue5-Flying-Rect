@@ -29,7 +29,8 @@ Crtl Gauche : Descendre
 1. Installez Unreal Engine 5.7.4
 2. Cloner ce repo : git clone <url>
 3. Ouvrir le fichier RectDemo.uproject
-4. Cliquer sur "Play" dans l'éditeur
+4. Allez dans le menu "Tirroir à contenu" et ouvrez "AlternanceCar"
+5. Cliquer sur "Play" dans l'éditeur
 
 
 **Utilisation de l'IA :**
